@@ -1,3 +1,1 @@
-# alx-system_engineering-devops
-
-##this is a readme file in alx-system_engineering-devops repo
+this is Shell, I/O Redirections and filters files
